@@ -15,13 +15,13 @@ This is the source code for Suraj Srivastav's personal portfolio website. The si
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/surajsri23/OIBSIP_Task-2-Portfolio.git
+    git clone https://github.com/surajsri23/Portfolio.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd OIBSIP_Task-2-Portfolio
+    cd Portfolio
     ```
 
 3. Open `index.html` in your preferred web browser.
